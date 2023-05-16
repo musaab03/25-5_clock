@@ -2,7 +2,7 @@
 
 > A timer which has a break feature, made for one of the projects in the Front End Development Libraries freeCodeCamp course
 
-### ✨ [Demo](https://codepen.io/musaab03/pen/PoyJeyv)
+### ✨ [Visit Live Site](https://codepen.io/musaab03/pen/PoyJeyv)
 
 ![image](https://user-images.githubusercontent.com/103457332/235787281-e70fb329-39be-41d3-b2a2-bf31d175f265.png)
 
